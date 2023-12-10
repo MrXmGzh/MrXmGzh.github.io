@@ -4,8 +4,6 @@ title: Android ScanWritr Pro 文档扫描
 categories: [办公]
 ---
 
-Android ScanWritr Pro 文档扫描\_v3.2.11 专业版 
-
 #### **Android ScanWritr Pro 文档扫描\_v3.2.11 专业版**
 
 ScanWritr Pro是一款功能强大且非常专业的PDF扫描识别应用软件，适用于家庭、办公、学校等…
@@ -20,9 +18,7 @@ ScanWritr Pro是一款功能强大且非常专业的PDF扫描识别应用软件�
 
 ### **软件截图**
 
-![](https://www.xibuluo.com/pic/article/202312/377/170169176582.jpg)
-
-* * *
+![Android ScanWritr Pro 文档扫描](https://mrxmgzh.oss-cn-beijing.aliyuncs.com/img/Android ScanWritr Pro 文档扫描.jpg)
 
 ### **下载地址：**
 
